@@ -21,8 +21,8 @@
         }
 
         #Rei_Perverso{
-        width: 25%;
-        height: 25%;
+        width: 15%;
+        height: 15%;
         }
 
         #Pequeno_Principe{
@@ -45,10 +45,10 @@
     <!-- Conteúdo Principal -->
     <main>
          <section>
-            <h2>2. O Rei Perverso</h2>
-            <p>Livro de Holly Black, o segundo da coleção "Povo do Ar". O plot final é simplesmente insano, me deiou boquiaberta. Sem contar as interações entre Jude e Cardan que foi ainda mais prazerosa de ler do que o primeiro livro. Esse, com certeza, é o meu livro favorito da coleção.</p>
-            <p><img id="Rei_Perverso"
-src="https://m.media-amazon.com/images/I/91N9kjbqxWS._AC_UF1000,1000_QL80_.jpg"></p>
+            <h2>3. Manual de Assassinato para Boas Garotas</h2>
+            <p>Livro de Holly Jackson. Na verdade, se fosse possível eu colocaria a coleção inteira do Manual nessa posição porque a trama inteira que é desenvolvida durante os três livros é incrível e prende demais com todo o suspense. O planejamento da autora para que coisas do primeiro livro sejam referenciadas nos próximos deixando um mistério que só perdura foi sensacional.</p>
+            <p><img id="Manual"
+src="https://m.media-amazon.com/images/I/71fE-JgveUL._AC_UF1000,1000_QL80_AIweblab1381794,T1_.jpg"></p>
         <section>
 
          <section>
