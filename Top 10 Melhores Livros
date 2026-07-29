@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <style>
+
+        body{
+        text-align: center;
+        background-color: pink;
+        color: white;
+        }
+
+        h1{
+        color: purple;
+        }
+
+        article{
+        color: black;
+
+        footer{
+        color: purple;
+        }
+
+        #Rei_Perverso{
+        width: 25%;
+        height: 25%;
+        }
+
+        #Pequeno_Principe{
+        width: 25%;
+        height: 25%;
+        }
+
+    </style>
+    <meta charset="UTF-8">
+    <title>Top 10 Livros</title>
+
+</head>
+<body>
+
+    <!-- Cabeçalho do Site -->
+    <header>
+        <h1>Top 10 Melhores Livros que Já Li</h1>
+        <p>De todos os (aproximadamente) 150 livros que li em minha vida, quais entram no meu top 10?</p>
+    </header>
+    <!-- Conteúdo Principal -->
+    <main>
+         <section>
+            <h2>2. O Rei Perverso</h2>
+            <p>Livro de Holly Black, o segundo da coleção "Povo do Ar". O plot final é simplesmente insano, me deiou boquiaberta. Sem contar as interações entre Jude e Cardan que foi ainda mais prazerosa de ler do que o primeiro livro. Esse, com certeza, é o meu livro favorito da coleção.</p>
+            <p><img id="Rei_Perverso"
+src="https://m.media-amazon.com/images/I/91N9kjbqxWS._AC_UF1000,1000_QL80_.jpg"></p>
+        <section>
+
+         <section>
+            <h2>2. O Rei Perverso</h2>
+            <p>Livro de Holly Black, o segundo da coleção "Povo do Ar". O plot final é simplesmente insano, me deiou boquiaberta. Sem contar as interações entre Jude e Cardan que foi ainda mais prazerosa de ler do que o primeiro livro. Esse, com certeza, é o meu livro favorito da coleção.</p>
+            <p><img id="Rei_Perverso"
+src="https://m.media-amazon.com/images/I/91N9kjbqxWS._AC_UF1000,1000_QL80_.jpg"></p>
+        <section>
+        <section>
+            <h2>1. O Pequeno Princípe</h2>
+            <p>Livro de Antoine de Saint-Exupéry. Ele ganha meu coração pois cada vez que o leio tenho novas reflexões e ele me toca como nunca. Além disso, foi um dos primeiros livros que tive contato quando iniciei o percursos da literatura.</p>
+            <p><img id="Pequeno_Principe"
+src="https://upload.wikimedia.org/wikipedia/pt/4/47/O-pequeno-pr%C3%ADncipe.jpg"></p>
+        <section>
+
+        <article>
+            <p>Acabou por hoje, mas siga meu blog para acesso à mais conteúdos!</p>
+        </article>
+    </main>
+
+    <!-- Rodapé do Site -->
+    <footer>
+        <p>Desenvolvido por Kamilly Ribeiro - Squad Arkhe &copy;
+2026</p>
+   </footer>
+
+</body>
+</html>
