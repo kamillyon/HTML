@@ -15,17 +15,28 @@
 
         article{
         color: black;
+        }
 
         footer{
         color: purple;
         }
-
-        #Rei_Perverso{
-        width: 15%;
-        height: 15%;
+        
+        #Coração{
+        width: 25%;
+        height: 25%;
+        }
+        
+        #Manual{
+        width: 25%;
+        height: 25%;
         }
 
-        #Pequeno_Principe{
+        #Rei_Perverso{
+        width: 25%;
+        height: 25%;
+        }
+
+        #Pequeno_Príncipe{
         width: 25%;
         height: 25%;
         }
@@ -45,24 +56,53 @@
     <!-- Conteúdo Principal -->
     <main>
          <section>
+            <h2>8. O Tr</h2>
+            <p>Livro de </p>
+            <p><img id="Prisioneiro"
+src=""></p>
+         </section>
+         <section>
+            <h2>7. O Lado Mais Sombrio</h2>
+            <p>Livro de </p>
+            <p><img id="Sombrio"
+src=""></p>
+         </section>
+         <section>
+            <h2>6. Amor e Azeitonas>
+            <p>Livro de </p>
+            <p><img id="Azeitonas"
+src=""></p>
+         </section>
+         <section>
+            <h2>5. O Meu Pé de Laranja Lima</h2>
+            <p>Livro de </p>
+            <p><img id="Laranja"
+src=""></p>
+         </section>
+         <section>
+            <h2>4. Era Uma Vez um Coração Partido</h2>
+            <p>Livro de Stephanie Garber. Há referências à raposas, o meu animal preferido, há um slow burn maravilhoso, um romance sensacional. Infelizmente ainda não tive oportunidades de ler o restante da coleção, mas estou ansiosa para terminá-la.</p>
+            <p><img id="Coração"
+src="https://grupoautentica.f1cdn.com.br/view/1080/1080/false/true/924.jpg?OTI0LQ=="></p>
+         </section>
+         <section>
             <h2>3. Manual de Assassinato para Boas Garotas</h2>
             <p>Livro de Holly Jackson. Na verdade, se fosse possível eu colocaria a coleção inteira do Manual nessa posição porque a trama inteira que é desenvolvida durante os três livros é incrível e prende demais com todo o suspense. O planejamento da autora para que coisas do primeiro livro sejam referenciadas nos próximos deixando um mistério que só perdura foi sensacional.</p>
             <p><img id="Manual"
 src="https://m.media-amazon.com/images/I/71fE-JgveUL._AC_UF1000,1000_QL80_AIweblab1381794,T1_.jpg"></p>
-        <section>
-
+         </section>
          <section>
             <h2>2. O Rei Perverso</h2>
             <p>Livro de Holly Black, o segundo da coleção "Povo do Ar". O plot final é simplesmente insano, me deiou boquiaberta. Sem contar as interações entre Jude e Cardan que foi ainda mais prazerosa de ler do que o primeiro livro. Esse, com certeza, é o meu livro favorito da coleção.</p>
             <p><img id="Rei_Perverso"
-src="https://m.media-amazon.com/images/I/91N9kjbqxWS._AC_UF1000,1000_QL80_.jpg"></p>
-        <section>
+src="https://static.wikia.nocookie.net/o-povo-do-ar/images/c/c4/RP_capa_01.jpg/revision/latest?cb=20210130011103&path-prefix=pt-br"></p>
+        </section>
         <section>
             <h2>1. O Pequeno Princípe</h2>
             <p>Livro de Antoine de Saint-Exupéry. Ele ganha meu coração pois cada vez que o leio tenho novas reflexões e ele me toca como nunca. Além disso, foi um dos primeiros livros que tive contato quando iniciei o percursos da literatura.</p>
-            <p><img id="Pequeno_Principe"
+            <p><img id="Pequeno_Príncipe"
 src="https://upload.wikimedia.org/wikipedia/pt/4/47/O-pequeno-pr%C3%ADncipe.jpg"></p>
-        <section>
+        </section>
 
         <article>
             <p>Acabou por hoje, mas siga meu blog para acesso à mais conteúdos!</p>
